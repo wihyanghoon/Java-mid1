@@ -14,6 +14,7 @@ public class UserV2 {
 //        return this.id.equals(((UserV2) obj).id);
 //    }
 
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
